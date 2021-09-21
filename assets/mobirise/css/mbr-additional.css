@@ -2110,6 +2110,7 @@ a {
 .cid-sJbUX7yrFx ul li::before {
   position: absolute;
   left: -1.6rem;
+  top: -9px;
   content: "\2022";
   color: #000000;
   font-weight: bold;
