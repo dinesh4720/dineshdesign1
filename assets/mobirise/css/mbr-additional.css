@@ -4,6 +4,9 @@ body {
 .bk{
   color:black;
 }
+a.nav-link.link.text-primary.display-4 {
+    font-family: 'Jost';
+}
 
 img.rd {
   height: 50vh;
